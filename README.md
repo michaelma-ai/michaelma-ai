@@ -14,7 +14,7 @@
     <td width="50%" valign="top">
       <a href="https://michaelma-central.vercel.app/"><img src="assets/central-first-screen.png" alt="Central first screen" width="100%"></a><br><br>
       <b><a href="https://github.com/michaelma-ai/portfolio/blob/main/central/README.md">Central</a></b><br>
-      Agentic AI assistant for knowledge work at &#36;0 inference cost: research, email, calendar and documents in one calm interface, with personalisation, safety guardrails and approval before it acts.<br><br>
+      Agentic AI assistant for knowledge work at &#36;0 inference cost in one calm interface, with personalisation, safety guardrails and approval before it acts.<br><br>
       <a href="https://michaelma-central.vercel.app/"><img src="https://img.shields.io/badge/Try%20the%20demo-1a7f5a?style=flat-square" alt="Central demo"></a> <a href="https://github.com/michaelma-ai/portfolio/blob/main/central/README.md"><img src="https://img.shields.io/badge/README-0b3d91?style=flat-square" alt="Central README"></a>
     </td>
     <td width="50%" valign="top">
