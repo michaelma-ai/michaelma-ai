@@ -4,8 +4,8 @@
 
 ## About 
 **I build agentic systems that carry out real work reliably, end to end, and the evals that decide when they are ready to ship:** 
-- By day, I head GenAI and Merchant Fulfilment (MFN) product management at Amazon, with a record of 0-to-1 launches.
-- By night, I build **Central**, an AI assistant harness that handles knowledge work in one calm interface at \$0 inference cost, with personalisation, safety guardrails and approval before it acts. Alongside it, the **Eval Harness** gates each release on 211 golden test cases, scored in code or by an LLM judge validated against human labels.
+- By day, I head GenAI and Merchant Fulfillment (MFN) product management at Amazon, with a record of 0-to-1 launches.
+- By night, I build **Central**, an AI assistant harness that handles knowledge work in one calm interface at \$0 inference cost, with personalization, safety guardrails and approval before it acts. Alongside it, the **Eval Harness** gates each release on 211 golden test cases, scored in code or by an LLM judge validated against human labels.
 - I'm most excited about frontier AI products that change how people work, learn, create and connect.
 
 ## Projects:
@@ -14,7 +14,7 @@
     <td width="50%" valign="top">
       <a href="https://michaelma-central.vercel.app/"><img src="assets/central-first-screen.png" alt="Central first screen" width="100%"></a><br><br>
       <b><a href="https://github.com/michaelma-ai/portfolio/blob/main/central/README.md">Central</a></b><br>
-      Agentic AI assistant for knowledge work at &#36;0 inference cost in one calm interface, with personalisation, safety guardrails and approval before it acts.<br><br>
+      Agentic AI assistant for knowledge work at &#36;0 inference cost in one calm interface, with personalization, safety guardrails and approval before it acts.<br><br>
       <a href="https://michaelma-central.vercel.app/"><img src="https://img.shields.io/badge/Try%20the%20demo-1a7f5a?style=flat-square" alt="Central demo"></a> <a href="https://github.com/michaelma-ai/portfolio/blob/main/central/README.md"><img src="https://img.shields.io/badge/README-0b3d91?style=flat-square" alt="Central README"></a>
     </td>
     <td width="50%" valign="top">
