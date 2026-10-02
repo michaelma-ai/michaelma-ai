@@ -5,7 +5,7 @@
 ## About 
 **I build agentic systems that carry out real work reliably, end to end, and the evals that decide when they are ready to ship:** 
 - By day, I head GenAI and Merchant Fulfilment (MFN) product management at Amazon, with a record of 0-to-1 launches.
-- By night, I build **Central**, an AI assistant that handles knowledge work in one calm interface at \$0 inference cost, with personalisation, safety guardrails and approval before it acts. Alongside it, the **Eval Harness** gates each release on 211 golden test cases, scored in code or by an LLM judge validated against human labels.
+- By night, I build **Central**, an AI assistant harness that handles knowledge work in one calm interface at \$0 inference cost, with personalisation, safety guardrails and approval before it acts. Alongside it, the **Eval Harness** gates each release on 211 golden test cases, scored in code or by an LLM judge validated against human labels.
 - I'm most excited about frontier AI products that change how people work, learn, create and connect.
 
 ## Projects:
